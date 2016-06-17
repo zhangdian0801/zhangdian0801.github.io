@@ -1,6 +1,6 @@
-# Microdust 微尘
+# Description
 
-This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
+Thanks to [Azeril’s](http://azeril.me/) guide and [Cnfeat‘s](http://cnfeat.com/) push.
 
 ## Thanks
 

@@ -2,23 +2,17 @@
 layout: page
 title: "About"
 description: "嘿，你总算找到我啦"
-header-img: "img/plane.jpg"
+header-img: "img/boat.png"
 ---
 
-<center>
-    <p><img src="
-http://7xprxf.com1.z0.glb.clouddn.com/blogpicture.pic.jpg" align="center"></p>
-</center>
+
+Hi，Welcome to my little world. My Name is Zhang Dian. 
+
+一旦开始自我介绍，总免不了抛出系列标签和 123 点的关键词，的确那是不同阶段的自己，但因为我一直在 change 啊，所以就不需要先入为主的印象啦。
+
+是的，通过文字来互相认识下吧。
 
 
-Ehhhh...I know it's not a good question.
-
-Hi，Welcome to my world.My Name is zhangdian. 
-
-生命不止，折腾不息。希望我的执行力能和好奇心一样充裕。
-待我再续。
-
-
-> Be a lifelong learner.
-
--- D 靛
+> 人群是一个幻觉……我是在与你们个别交谈。
+ 
+> -- [豪尔赫•路易斯•博尔赫斯](https://book.douban.com/subject/25952961/)
