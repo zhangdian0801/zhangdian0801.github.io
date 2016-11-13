@@ -61,8 +61,8 @@ NO，那种感觉很糟糕，第一反应是自己究竟在哪里出问题了，
 
 - [全民焦虑的时代，你该如何自处？](http://mp.weixin.qq.com/s?__biz=MzI5MjMyNjk2Mg==&mid=2247485730&idx=1&sn=0e00b9c5e03909f1dbe1953fdd1b6d34&chksm=ec02527fdb75db694f2bd025478df9d15041cc8ed4d1206afc8ba410a6f05f81942cec7c307c&mpshare=1&scene=1&srcid=1108WQbboubnr21BUlLN4VIb#rd)
 - [你是否也在经受“焦虑”的折磨？](http://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650455292&idx=1&sn=74f2184ea0364a3f7b5e882783e02f09&chksm=bef950b4898ed9a26680d7d38b3d1548c1380b9878fd1dbdebd80d723fc9e283732f3582eaa1&mpshare=1&scene=1&srcid=1107dKWR8MKoY0qgQkZVlhje#rd)（全面介绍焦虑的学理意义）
-- [“我的焦虑感挥之不去” | 研究：你是慢性忧虑者么？](http://urlc.cn/SCwQV0)（测试一下你是否是其中一员）
-- [当完美主义者谈论完美时，他们在谈什么？| 健康脑](http://urlc.cn/7BxR50)
+- [“我的焦虑感挥之不去”研究：你是慢性忧虑者么？](http://urlc.cn/SCwQV0)（测试一下你是否是其中一员）
+- [当完美主义者谈论完美时，他们在谈什么？健康脑](http://urlc.cn/7BxR50)
 - [你焦虑吗？遇到焦虑怎么办？](http://mp.weixin.qq.com/s?__biz=MzIzMTUyOTY3NA==&mid=2247484252&idx=1&sn=976df87430e201b4f137165789ef7fa1&chksm=e8a38ef9dfd407ef5cd7b0add8b1710850ff47d5b89d287f45e753c8fafb803a969961f9565f&mpshare=1&scene=1&srcid=1109ExNp747UJeOeUOFuyofH#rd)（耿直的回答）
 
 没有安全感，这是一种时代病。还好，我不是一个重度焦虑者。只是在一些重大事情发生或者被众多事情围堵时我才会表现出焦躁不已的小情绪。还好，我会自我诊疗，比如此刻我写下这些文字作为解决方法之一。
