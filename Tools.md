@@ -30,3 +30,7 @@ header-img: "img/autumn.jpg"
 [ClipConverter](http://www.clipconverter.cc/) 转换和下载 Youtube 视频
 
 [草料二维码生成器](http://cli.im/)
+
+[More](https://github.com/zhangdian0801/Growing/blob/master/Tools.md)
+
+### Learning
