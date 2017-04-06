@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Communication"
-description: "独立 理性"
+title: "MediaLab"
+description: "前沿 独立 理性"
 header-img: "img/plane2.jpg"
 ---
 
