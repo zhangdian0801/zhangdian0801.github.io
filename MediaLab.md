@@ -8,7 +8,17 @@ header-img: "img/plane2.jpg"
 ## 每日书
 ~ 每天保持阅读和写作的习惯，不系统，恰也多元。
 
-### 7.11 ~ 
+### 7.11 ~ 7.16
+
+领导力[link](http://www.cnfeat.com/blog/2017/07/06/LeadershipPipeline/)
+> 很 Cnfeat 风，讲的很好。而我现在还在努力奋斗成为一名合格的“个人贡献者”。
+
+台湾[link](https://theinitium.com/article/20170715-martial-law-little-happiness/)
+
+> **三回政党轮替，媒体争争吵吵，无数次大大小小社会运动，既有海外华侨争相要回流享受的全民健保，环保意识抬头，同性婚姻见曙光……议题摊在阳光下，全民皆可置喙，却从未出现严重流血或族群分裂。**很好的文章，真的触动到了，彼之如呼吸般轻易，那至今依然缺位的又该如何呢？有机会一定要去那片土地上亲自走一走。
+
+直播[link](https://mp.weixin.qq.com/s?__biz=MjAzNzMzNTkyMQ==&mid=2653761834&idx=1&sn=a478e455752be3bd332a65eb88f341c9&chksm=4a8921347dfea8220c0a4500469080fd63cc76093a97edf4d66045dd9b44fa17bc9c51bf8284&mpshare=1&scene=1&srcid=0714ei3fSNmaJkJKESjMevS8&key=cf0fa2bf8e1a08aca0f3dc50edb6e9d9b55ecff1b3bf820b258764148c1a5108d0266393d0a43f011431262abd3e5af5cea72ae4e0e20e487dcd3520689378674d989a257d14244a561e7c109cfdc3cc&ascene=0&uin=MjAxNTA4ODMyMQ%3D%3D&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.12+build(16A323)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=Ze6wEIiJGuccd2hLl8rKW4L%2Bg5NwV3i87ePCDkDxLAiAZM07CgctRQJj%2Ftoyn6TQ)
+> 带着好奇心来了，看一会就走了。主打社交关系的直播网站面临的首要问题就是用户沉淀困难。一年过去了，能够获得投资方青睐的依然是那些有主题有持续内容生产力的直播平台，比如游戏。而通过直播一朝暴富的神话也越来越难实现。就个人而言，表示只会对「媒介事件」式的直播产生兴趣，难以想象会一直听人家在那瞎比比，所谓尬聊，只觉浪费时间。
 
 快乐/幸福/未来[link](http://www.baibanbao.org/2017/07/do-not-fool-me-with-the-future/)
 > 人生真正有价值的时刻都没有大山临盆式的轰轰烈烈，也没有壮士出征时那样的慨当以慷。生命是静水深流，是默然生长。读书，写作，与友人交往，所有这一切，看上去跟平淡，实际上在默默积累你功力。「默然生长」，好动听的词。
