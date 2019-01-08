@@ -27,4 +27,6 @@ description: 作品
 
 自个的[公号](https://mp.weixin.qq.com/profile?src=3&timestamp=1513094532&ver=1&signature=9qVN2WtWGnTMdRiX6pMCTqnC3UhYl6m8TrQJoAOXz78Oo9NdowL*zBzGTM9q15HYCaZpVOg7uXe51FtRENpgtQ==)
 
+曾经运营的“受众研究中心”公号
+
 更多不妨探索下我的博客喽，写作始终为最爱。
