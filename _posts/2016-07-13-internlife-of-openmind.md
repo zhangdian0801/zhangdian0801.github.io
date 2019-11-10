@@ -2,7 +2,7 @@
 layout: post
 title: 开·智 奇妙之旅：实习谈
 categories: [blog, ]
-tags: [Career, Choice, ]
+tags: [Career, ]
 description: 实习总结
 ---
 

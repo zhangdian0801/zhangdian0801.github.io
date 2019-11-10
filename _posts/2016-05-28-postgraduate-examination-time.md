@@ -2,7 +2,7 @@
 layout: post
 title: 考研手记 | 竭尽全力，而非尽力而为
 categories: [blog, ]
-tags: [Choice, ]
+tags: [Life, ]
 description: 记录我的考研日子
 ---
 
