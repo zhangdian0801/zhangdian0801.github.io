@@ -2,7 +2,7 @@
 layout: post
 title: 难以复刻的「复制时代」--安迪·沃霍尔观展记
 categories: [blog, ]
-tags: [Work, ]
+tags: [Life, ]
 description: 安迪·沃霍尔
 ---
 

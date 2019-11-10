@@ -35,7 +35,7 @@ description: 假期耍一耍
 
 周围还有一簇簇的小团体，或席地而坐，或和我们一样带上了小餐布，听歌、打牌、聊天，当然少不了零食。看到了很多的帐篷，羡慕，当即决定下次自己也要来一次野营之旅。轻松的下午时刻，以往都只有我一个人在那感慨美好时光，想不到此次方先生比我还兴奋呢，说了好几次这样的生活真不错。
 
-![](https://ww1.sinaimg.cn/large/006tNbRwly1feb2jpeexrj30zk0zkqe1.jpg)
+![](https://tva1.sinaimg.cn/large/006y8mN6gy1g8szz6uh1qj30u00u07fc.jpg)
 
 不负好春光
 
