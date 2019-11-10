@@ -2,7 +2,7 @@
 layout: post
 title: 胶囊计划 01：重新爱上展览
 categories: [blog, ]
-tags: [胶囊计划, ]
+tags: [CapsulePlan, ]
 description: 开启胶囊计划
 ---
 
