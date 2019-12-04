@@ -31,8 +31,9 @@ This is Dian`s user manual.
 
 ### 社交媒体
 
-- 0 粉丝的微博
-- 10 多个粉丝的 ins
+- 0 粉丝的微博 （Follow 大 V 们的真知灼见）
+- 10 多个粉丝的 ins （最真诚的自留地）
+- 1000 多个好友的微信（朋友圈数量呈急速递减趋势）
 - Contact Me：zhangdian0801@gmail.com
 
 
