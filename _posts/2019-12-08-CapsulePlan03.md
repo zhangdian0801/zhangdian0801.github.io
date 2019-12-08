@@ -140,6 +140,8 @@ description: 胶囊计划，第一个小目标是写到 100 期，真能坚持 5
 
 ③ 习惯真是种可怕的力量。现在有那么多好的 Markdown 编辑器，但我依然用了最开始使用的 Macdown，图省事但也看中了它的「朴素」。
 
+④ 往期：[胶囊计划 02：探索你的城市 - Dian Blog](https://zhangdian0801.github.io/blog/CapsulePlan02.html)、[01](https://zhangdian0801.github.io/blog/CapsulePlan01.html)
+
 ## ChangeLog
 
 - 191125 - 191208 期间撰写 本期新增 tool 分类
