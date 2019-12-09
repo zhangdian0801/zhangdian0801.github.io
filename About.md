@@ -5,21 +5,18 @@ description: "嘿，你总算找到我啦"
 header-img: "img/boat.png"
 ---
 
-This is Dian`s user manual.
+This is Dian's user manual.
 
 长于浙江小城，求学北京，目前在上海工作。
-
 
 ### 过度旺盛的好奇心
 
 写作 书籍 城市 社区 城市更新 社会创新 地理 gis 数据可视化 数据新闻 Python 咨询 信息分析 财报 财经 商业报道 展览 社群 共创 协作 效率工具 传媒 公共政策 Podcast 数字游民……
 
-
 ### 正在进行的 Project
 
 - 胶囊计划：两周一次的个人所思所感分享
 - Python：文本分析学习 ing
-
 
 ### 个人兴趣
 
@@ -27,7 +24,6 @@ This is Dian`s user manual.
 - 听播客：重度播客使用者，列表里有上百个播客；
 - 看剧：偶尔刷刷一两部国内综艺作为下饭辅助，但总体更喜欢更有内容增量的美剧；
 - 间歇性行为：逛展、脱口秀、citywalk……
-
 
 ### 社交媒体
 
