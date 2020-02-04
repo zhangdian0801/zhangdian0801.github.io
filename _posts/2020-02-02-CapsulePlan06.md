@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 胶囊计划 06：春节
+title: 胶囊计划 06：被新冠肺炎支配的春节
 categories: [blog, ]
 tags: [CapsulePlan, ]
 description: 胶囊计划，第一个小目标是写到 100 期，真能坚持 5 年可真是令人小骄傲呢
