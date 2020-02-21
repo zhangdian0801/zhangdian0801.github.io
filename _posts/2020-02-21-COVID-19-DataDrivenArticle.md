@@ -25,7 +25,7 @@ description: 做个小记录
 
 [照路明：新型冠状病毒肺炎病例群像：何时发病，多大年龄，在哪分布？](https://www.thepaper.cn/newsDetail_forward_5601380) ；[上观数据：新型冠状病毒肺炎值得注意的细节：我们整理了277个病例和41个死亡案例](https://www.thepaper.cn/newsDetail_forward_5644119)；
 
-[美数课：763例确诊患者的故事，还原新冠病毒向全国扩散的路径](https://www.thepaper.cn/newsDetail_forward_5719018)；[7.2万条病例数据首次披露，疫情如何发展到了今天 | DT数说](https://mp.weixin.qq.com/s/dSwxn2E0AfgfN95rR6kGoQ) 以尽可能全面的数据梳理疫情始末。
+[美数课：763例确诊患者的故事，还原新冠病毒向全国扩散的路径](https://www.thepaper.cn/newsDetail_forward_5719018)；[7.2万条病例数据首次披露，疫情如何发展到了今天-DT数说](https://mp.weixin.qq.com/s/dSwxn2E0AfgfN95rR6kGoQ) 以尽可能全面的数据梳理疫情始末。
 
 [海外24个国家已发现新冠肺炎病例，这艘邮轮上的病例占了将近一半](https://www.thepaper.cn/newsDetail_forward_6038417) 、[下船！31天3711人感染新冠肺炎542例 一图复盘“钻石公主号”非常之旅 - 21财经](https://m.21jingji.com/article/20200219/herald/ce706493a278babd7471a77d092ad3ee.html) 海外病例在后期不断增加，尤因「钻石公主号」备受关注。
 
@@ -43,7 +43,7 @@ description: 做个小记录
 
 [镝次元：拐点基本明晰](https://www.thepaper.cn/newsDetail_forward_6042457)
 
-[湖北数据大幅波动意味着什么？| DT数说](https://mp.weixin.qq.com/s/HGP6NUwgfWlC7shTWyeL8g)
+[湖北数据大幅波动意味着什么？-DT数说](https://mp.weixin.qq.com/s/HGP6NUwgfWlC7shTWyeL8g)
 
 ### 人口迁徙
 
@@ -99,7 +99,7 @@ description: 做个小记录
 
 [50项与新冠肺炎有关的临床试验登记在案，里边会有“特效药”吗？](https://www.thepaper.cn/newsDetail_forward_5910240)
 
-[成功率仅0.02%，新冠治疗药物距离上市还有多远？| DT数说](https://mp.weixin.qq.com/s/nxoUB3GSZBKaIA7ICeQmhQ)
+[成功率仅0.02%，新冠治疗药物距离上市还有多远？-DT数说](https://mp.weixin.qq.com/s/nxoUB3GSZBKaIA7ICeQmhQ)
 
 ### 应对措施
 
@@ -109,7 +109,7 @@ description: 做个小记录
 
 [谷雨数据：一图看懂武汉战“疫”60天关键节点](https://www.thepaper.cn/newsDetail_forward_5677962) 
 
-[特别报道 | 假如武汉的警铃有机会被拉响，可以是哪天？](https://www.yicai.com/news/100495596.html)
+[特别报道——假如武汉的警铃有机会被拉响，可以是哪天？](https://www.yicai.com/news/100495596.html)
 
 2、医学/科研力量
 
@@ -128,7 +128,7 @@ description: 做个小记录
 
 1、对普通人
 
-如题，[被新冠肺炎困在家中的中国人，这几天都在干什么？](https://www.thepaper.cn/newsDetail_forward_5662782)、[后疫情时代 | 我们如何被新冠肺炎改变了生活？](https://www.thepaper.cn/newsDetail_forward_5878357)一场对十四亿人都产生影响的灾难，问卷尽管不具备样本代表性，然管中窥豹，可见一斑。
+如题，[被新冠肺炎困在家中的中国人，这几天都在干什么？](https://www.thepaper.cn/newsDetail_forward_5662782)、[后疫情时代：我们如何被新冠肺炎改变了生活？](https://www.thepaper.cn/newsDetail_forward_5878357)一场对十四亿人都产生影响的灾难，问卷尽管不具备样本代表性，然管中窥豹，可见一斑。
 
 被禁锢在家的日子，线上便成了救命稻草。外卖数据、淘宝数据以及其它线上数据是生活状态很好的佐证。[DT城数：外卖数据下的武汉：普通人的“封城”十日生活](https://www.thepaper.cn/newsDetail_forward_5791269)
 
