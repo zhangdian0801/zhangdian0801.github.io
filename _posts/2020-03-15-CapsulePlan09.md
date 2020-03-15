@@ -42,7 +42,7 @@ description: 胶囊计划，第一个小目标是写到 100 期，真能坚持 5
 
 B站上每集 30 分钟的催泪纪录片。有的人，你以为很远，比如坐在轮椅上度过一生的残疾人，但或许很近，他可能就是你恶语相向的淘宝客服中的一员；有的时刻，终有一天你也会经历，比如结婚、生子。每一集记录的，都是平凡你我的生活。
 
-印象最深的是第三集《长大 | 我在爸妈看不见的地方偷偷长大》和第七集《进城 | 干就完了》，前者惊叹于诗歌的美好，后者感动于女主人公第一次在上海外滩游览时和孩子视频时的兴奋与满足。
+印象最深的是第三集《长大：我在爸妈看不见的地方偷偷长大》和第七集《进城：干就完了》，前者惊叹于诗歌的美好，后者感动于女主人公第一次在上海外滩游览时和孩子视频时的兴奋与满足。
 
 ## Have a look
 
@@ -90,7 +90,7 @@ B站上每集 30 分钟的催泪纪录片。有的人，你以为很远，比如
 
 好久没听JJ和Lean唠了，关于很多设计太专业的东西不是很懂，但偶尔也能发现一些很棒的资源，竟然还有统计学资源分享，感觉可以逛一整天了哈哈哈，已加入 RSS
 
-④ [Empathy as an investigative tool: how to map systems to come up with story ideas | Online Journalism Blog](https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas/)
+④ [Empathy as an investigative tool: how to map systems to come up with story ideas——Online Journalism Blog](https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas/)
 
 brainstorm 时可使用的[工具](https://kumu.io/sarahdd/test#resume)，帮助你理顺思绪。比较适用类似毕业设计这样的超大项目，项目众多，逻辑复杂，maybe也适合写本书？小一点的项目我觉得用一张白纸也可以解决，毕竟没那么多七弯八绕。
 
