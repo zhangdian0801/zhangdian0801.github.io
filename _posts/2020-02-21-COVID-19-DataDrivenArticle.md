@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 抗击新冠肺炎，数据er在行动 | 清单
+title: 数据记「疫」 | 清单
 categories: [blog, ]
 tags: [Career, ]
 description: 做个小记录
 ---
 
-## 数据记「疫」 | 清单
+
 
 公开发表版本：[https://mp.weixin.qq.com/s/sLxxG6hs4y8-ZlXjGdMhrQ](https://mp.weixin.qq.com/s/sLxxG6hs4y8-ZlXjGdMhrQ)
 
