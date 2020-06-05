@@ -8,6 +8,7 @@ description: 做个小记录
 
 
 
+
 公开发表版本：[https://mp.weixin.qq.com/s/sLxxG6hs4y8-ZlXjGdMhrQ](https://mp.weixin.qq.com/s/sLxxG6hs4y8-ZlXjGdMhrQ)
 
 2020 年，一场新冠肺炎的爆发抢过了庚子年春节的主调，身处其中，我们亲自为这场抗疫写下注脚。疫情实时地图、传播路径还原、感染人数建模、问卷信息收集……本文整理了一批优质数据项目，来看数据的 N 种表达可能性，重温数据er 在这次疫情中贡献的力量。
