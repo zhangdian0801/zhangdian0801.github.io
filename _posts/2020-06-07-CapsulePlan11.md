@@ -98,7 +98,7 @@ description: 胶囊计划，第一个小目标是写到 100 期，真能坚持 5
 
 ## Have a look
 
-[《纽约客》模仿者？这些城市记录者未必答应 | 100 个有意思的人（19）](https://mp.weixin.qq.com/s/-WbmJIkHNpXHlb0YLDPAGQ)
+[《纽约客》模仿者？这些城市记录者未必答应-100 个有意思的人（19）](https://mp.weixin.qq.com/s/-WbmJIkHNpXHlb0YLDPAGQ)
 
 记录城市，与所处之地发生联结，一直都是件非常有意义的事呢。
 
@@ -120,7 +120,7 @@ description: 胶囊计划，第一个小目标是写到 100 期，真能坚持 5
 
 在繁杂的互联网保留一方后花园，都是有自己小世界的人儿
 
-⑤ [神器安利！可以一键导出微信读书笔记|支持Markdown等三种格式](https://mp.weixin.qq.com/s/hCZWQEfHrCAxTiO0h8ukJw)
+⑤ [神器安利！可以一键导出微信读书笔记-支持Markdown等三种格式](https://mp.weixin.qq.com/s/hCZWQEfHrCAxTiO0h8ukJw)
 
 这个工具太酷了，写读书笔记时的辅助利器。
 
