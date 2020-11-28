@@ -72,7 +72,7 @@ description: 胶囊计划，第一个小目标是写到 100 期，真能坚持 5
 
 有一些人的文字就是会让人觉得很温暖呢。
 
-[全部 Emojis | Emoji表情符号辞典 📓 | EmojiAll 简体中文](https://www.emojiall.com/zh-hans/all-emojis)
+[全部 Emojis-Emoji表情符号辞典 📓EmojiAll 简体中文](https://www.emojiall.com/zh-hans/all-emojis)
 
 微信新上六个新表情，大家都用的不亦乐乎。这个网站可以帮你溯源下发展史。
 
@@ -80,7 +80,7 @@ description: 胶囊计划，第一个小目标是写到 100 期，真能坚持 5
 
 ① [flomo](https://flomo.app/mine) flomo ，本意是 flow + memo ，含义为「流动的笔记」，被cnfeat从朋友圈安利的一个应用，和写卡片有异曲同工之妙，当即就申请内测啦，准备持续用用看，体验不错的话准备后续写一篇我的工具箱们，系统介绍下我的生产利器们：eagle + flomo + 滴答清单 + 我的清单等。
 
-② [Photography tips | COAPP - Collection of automatic photo presets](https://coapp.pro/photography-tips/)
+② [Photography tips COAPP - Collection of automatic photo presets](https://coapp.pro/photography-tips/)
 
 图绘摄影，清晰简洁。看图说话，教你学摄影。
 
@@ -104,5 +104,4 @@ description: 胶囊计划，第一个小目标是写到 100 期，真能坚持 5
 
 ## ChangeLog
 
-- 20201128 提交
-- 历时很久的内容
+- 20201128 提交历时很久的内容
