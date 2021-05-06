@@ -55,11 +55,9 @@ description: 这份工作，都收获了些啥
 
 **（每月固定有数栏目榜单文案、根据热点建专题、清单，将内容进行二次传播）**
 
-[数据记“疫”_澎湃新闻-ThePaper](https://www.thepaper.cn/newsDetail_forward_6660975?fileGuid=t3tjhX88kxXyCgTj)
-
-[疫情之下，数据的 100 种表达_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_6663921?fileGuid=t3tjhX88kxXyCgTj)
-
-[有数4月榜 假如数据“欺骗”了你](https://mp.weixin.qq.com/s/Fg03r8TA14xsb13sYcqyFw?fileGuid=t3tjhX88kxXyCgTj)
+- [数据记“疫”_澎湃新闻-ThePaper](https://www.thepaper.cn/newsDetail_forward_6660975?fileGuid=t3tjhX88kxXyCgTj)
+- [疫情之下，数据的 100 种表达_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_6663921?fileGuid=t3tjhX88kxXyCgTj)
+- [有数4月榜 假如数据“欺骗”了你](https://mp.weixin.qq.com/s/Fg03r8TA14xsb13sYcqyFw?fileGuid=t3tjhX88kxXyCgTj)
 
 清单👇
 
