@@ -10,8 +10,6 @@ description: 这份工作，都收获了些啥
 
 **个人成果**：对数据可视化创作具备充分认识，且能清晰简洁写作，讲数据驱动的好故事。
 
-**~ （若电脑端）具体事务可参见左侧目录**
-
 # **内容创作（重心）**
 
 ## 深度介入联合出品/原创
@@ -21,7 +19,7 @@ description: 这份工作，都收获了些啥
 * [北京地铁上的967个阅读瞬间，原来日日都是读书日_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_7104287?fileGuid=t3tjhX88kxXyCgTj)
 * [6591条帖子里的武汉故事，一群普通人的129天_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_6873978?fileGuid=t3tjhX88kxXyCgTj)
 * [五年狠砸150多亿美金，Netflix如何成为全球原创电影新豪强？_湃客_澎湃新闻-The Pape](https://www.thepaper.cn/newsDetail_forward_8197120?fileGuid=t3tjhX88kxXyCgTj)
-* [有数 | 欢迎来到亿万富豪俱乐部，这里也有隐形天花板_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_10982789?fileGuid=t3tjhX88kxXyCgTj)
+* [有数 欢迎来到亿万富豪俱乐部，这里也有隐形天花板_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_10982789?fileGuid=t3tjhX88kxXyCgTj)
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gq8k80q1jaj30s70ei78l.jpg)
 
@@ -36,9 +34,9 @@ description: 这份工作，都收获了些啥
 
 **2、下边是与个人创作者（较为成熟）合作的稿件（优势互补型，发挥各自擅长的内容）**
 
-* [有数｜歌荒？这里有一群普通乐迷评选出的“年度之歌”_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_9655964?fileGuid=t3tjhX88kxXyCgTj)
-* [图绘 | 这条“生命线”，记录了共享单车三年成败史_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_3005387?fileGuid=t3tjhX88kxXyCgTj)
-* [吸毒者图鉴：4211份笔录里的吸毒人生 | 有数_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_11520500?fileGuid=t3tjhX88kxXyCgTj)
+* [有数 歌荒？这里有一群普通乐迷评选出的“年度之歌”_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_9655964?fileGuid=t3tjhX88kxXyCgTj)
+* [图绘 这条“生命线”，记录了共享单车三年成败史_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_3005387?fileGuid=t3tjhX88kxXyCgTj)
+* [吸毒者图鉴：4211份笔录里的吸毒人生 有数_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_11520500?fileGuid=t3tjhX88kxXyCgTj)
 * [北京“厕”写：1.4万座公厕的变迁史_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_2647649?fileGuid=t3tjhX88kxXyCgTj)
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gq8k8nfpppj30ni0el77u.jpg)
@@ -49,7 +47,7 @@ description: 这份工作，都收获了些啥
 
 * [当目光聚焦武汉时，湖北其他城市也在“求助”_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_5721163?fileGuid=t3tjhX88kxXyCgTj)
 * [1990到2020，数据带你看“浦东速度”_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_7122777?fileGuid=t3tjhX88kxXyCgTj)
-* [315 | 关于“被骗”的100万个故事_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_11705986?fileGuid=t3tjhX88kxXyCgTj)
+* [315 关于“被骗”的100万个故事_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_11705986?fileGuid=t3tjhX88kxXyCgTj)
 
 # 内容运营（常规）
 
@@ -61,7 +59,7 @@ description: 这份工作，都收获了些啥
 
 [疫情之下，数据的 100 种表达_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_6663921?fileGuid=t3tjhX88kxXyCgTj)
 
-[有数4月榜 | 假如数据“欺骗”了你](https://mp.weixin.qq.com/s/Fg03r8TA14xsb13sYcqyFw?fileGuid=t3tjhX88kxXyCgTj)
+[有数4月榜 假如数据“欺骗”了你](https://mp.weixin.qq.com/s/Fg03r8TA14xsb13sYcqyFw?fileGuid=t3tjhX88kxXyCgTj)
 
 清单👇
 
