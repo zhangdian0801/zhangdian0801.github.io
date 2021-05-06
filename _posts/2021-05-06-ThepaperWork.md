@@ -6,13 +6,13 @@ tags: [Career, ]
 description: 这份工作，都收获了些啥
 ---
 
-*关于有数**：由澎湃新闻孵化的，一个做数据可视化内容的[专业创作者平台](https://www.thepaper.cn/list_35572?fileGuid=t3tjhX88kxXyCgTj)，关注数据叙事，致力于连接和扶持具备数据挖掘与可视化能力的创作个体或团体，共同挖掘公共话题中的数据力量。
+**关于有数**：由澎湃新闻孵化的，一个做数据可视化内容的[专业创作者平台](https://www.thepaper.cn/list_35572?fileGuid=t3tjhX88kxXyCgTj)，关注数据叙事，致力于连接和扶持具备数据挖掘与可视化能力的创作个体或团体，共同挖掘公共话题中的数据力量。
 
 **个人成果**：对数据可视化创作具备充分认识，且能清晰简洁写作，讲数据驱动的好故事。
 
-# **内容创作（重心）**
+## 内容创作（重心）
 
-## 深度介入联合出品/原创
+### 深度介入联合出品/原创
 
 **（全程参与数据挖掘、清洗，沟通设计，部分文字撰写）**
 
@@ -24,7 +24,7 @@ description: 这份工作，都收获了些啥
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gq8k80q1jaj30s70ei78l.jpg)
 
 
-## 合作稿件指导编辑
+### 合作稿件指导编辑
 
 **以编辑身份进行内容指导，发展独家作品（有数栏目独家作品50+篇）**
 
@@ -41,7 +41,7 @@ description: 这份工作，都收获了些啥
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gq8k8nfpppj30ni0el77u.jpg)
 
-## 选题 pitch 并把控方向
+### 选题 pitch 并把控方向
 
 （喂选题给比较成熟的创作者，并与其沟通大方向，过框架，成文后微修改）
 
@@ -49,9 +49,9 @@ description: 这份工作，都收获了些啥
 * [1990到2020，数据带你看“浦东速度”_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_7122777?fileGuid=t3tjhX88kxXyCgTj)
 * [315 关于“被骗”的100万个故事_湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_11705986?fileGuid=t3tjhX88kxXyCgTj)
 
-# 内容运营（常规）
+## 内容运营（常规）
 
-## 数据记疫专题、每月榜单、主题清单
+### 数据记疫专题、每月榜单、主题清单
 
 **（每月固定有数栏目榜单文案、根据热点建专题、清单，将内容进行二次传播）**
 
@@ -65,9 +65,9 @@ description: 这份工作，都收获了些啥
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gq8k95utvcj30gc0fetbg.jpg)
 
-# 项目/活动类（每年一次）
+## 项目/活动类（每年一次）
 
-## 数据创作者大会
+### 数据创作者大会
 
 **职责：宣推文案主要撰写人，同时负责嘉宾对接、内容把关、物料跟进、现场执行等大小事务（因为人少）。**
 
@@ -88,13 +88,13 @@ description: 这份工作，都收获了些啥
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gq8k9igfsyj30ib0c4jth.jpg)
 
 
-## 周年数据策划
+### 周年数据策划
 
 自2019年起，湃客会在每年的七月份（澎湃周年）和年底产出一份创作者成绩单查询&获奖榜单，形式为H5。作为部门的数据担当，我需要根据一年的各个维度指标最终评选出获奖人员。
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gq8k9xq3poj30ui0qeb29.jpg)
 
-# other
+## other
 
 ~数据相关作品
 
